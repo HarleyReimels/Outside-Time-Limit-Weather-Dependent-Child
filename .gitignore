@@ -1,2 +1,6 @@
 # Ignore environment variables file
 .env
+run.txt
+test.py
+test2.py
+test3.py
